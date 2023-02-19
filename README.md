@@ -15,15 +15,10 @@ I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Dep
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduYeshan&langs_count=9&layout=compact" />
 </a> -->
 
-<br />
 
-
-
-<!-- - 🔭 I’m currently working on eventseekout.com -->
-<!-- - 🌱 I’m currently learning Dart,Flutter
-- 👯 I’m looking to collaborate on Flutter projects -->
 - 📫 How to reach me: 
 <a href='https://www.linkedin.com/in/pasinduyeshan'>LinkedIn</a>
+<a href='https://medium.com/@pasinduyeshann'>Medium</a>
 
 #### Top Technologies
 
@@ -51,12 +46,8 @@ I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Dep
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
-
-##### Testing
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ##### Hosting/SaaS
 
@@ -74,14 +65,6 @@ I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Dep
 ##### Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-##### IDEs/Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ##### Version Control
 
