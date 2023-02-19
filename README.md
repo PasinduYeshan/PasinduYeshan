@@ -1,5 +1,11 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Pasindu Yeshan
+I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Departhment at University of Moratuwa.
+
+- 🔭  I’m currently working on my Final Year Project: SpotKube: Cost optimization of Microservices-based application in a hybrid cloud environment
+
+- 💼  I have previous work experience as a Software Engineering Intern at WSO2 LLC.
+
+- 📫  Reach me on pasindua.18@cse.mrt.ac.lk
 
 
 <a href="https://github.com/PasinduYeshan">
