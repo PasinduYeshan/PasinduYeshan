@@ -5,7 +5,7 @@ I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Dep
 
 - 💼  I have previous work experience as a Software Engineering Intern at WSO2 LLC.
 
-- 📫  Reach me on pasindua.18@cse.mrt.ac.lk
+- 📫  Reach me on pasinduyeshan98@gmail.com
 
 <!-- 
 <a href="https://github.com/PasinduYeshan">
