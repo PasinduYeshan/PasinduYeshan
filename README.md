@@ -1,36 +1,27 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Pasindu Yeshan, an Undergraduate at the Computer Science and Engineering Departhment at University of Moratuwa.
 
-- 🔭  I’m currently working on my Final Year Project: SpotKube: Cost optimization of Microservices-based application in a hybrid cloud environment
+💻 **Software Engineer** at **WSO2**  
+🌍 Passionate about exploring new horizons  
+✈️ Lover of travel and chasing new experiences  
 
-- 💼  I have previous work experience as a Software Engineering Intern at WSO2 LLC.
-
-- 📫  Reach me on pasinduyeshan98@gmail.com
-
-<!-- 
-<a href="https://github.com/PasinduYeshan">
-  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduYeshan&count_private=true&show_icons=true&count_private=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
-</a>
-<a href="https://github.com/PasinduYeshan">
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduYeshan&langs_count=9&layout=compact" />
-</a> -->
-
-
-- 📫 How to reach me: 
-<a href='https://www.linkedin.com/in/pasinduyeshan'>LinkedIn</a>
-<a href='https://medium.com/@pasinduyeshann'>Medium</a>
+I enjoy building impactful software solutions and immersing myself in innovative technologies. Outside of coding, you’ll often find me embarking on adventures, discovering new cultures, or learning something new.
+ 
+📫 **Reach me at**  
+- 📧 [pasinduyeshan98@gmail.com](mailto:pasinduyeshan98@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pasinduyeshan)  
+- ✍️ [Medium](https://medium.com/@pasinduyeshann)  
 
 #### Top Technologies
 
-##### Programing languages
+##### Programming Languages
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ##### Frameworks, Platforms and Libraries
 
