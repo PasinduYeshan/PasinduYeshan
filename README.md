@@ -1,10 +1,10 @@
 # Hi there, I'm Pasindu Yeshan Abeysinghe 👋
 
-Senior Software Engineer at **WSO2**, specializing in **Identity & Access Management (IAM)**. I build secure, scalable identity infrastructure, bridging the gap between complex enterprise protocols and seamless user experiences.
+Senior Software Engineer at **Choreo Labs**, specializing in **Identity & Access Management (IAM)**. I build secure, scalable identity infrastructure, bridging the gap between complex enterprise protocols and seamless user experiences.
 
 🌍 **Based in:** Colombo, Sri Lanka<br>
 🌐 **Portfolio:** [yeshandev.com](https://yeshandev.com)<br>
-✍️ **Writing:** I break down auth standards and WSO2 engineering insights on [Medium](https://pasinduyeshan.medium.com/).
+✍️ **Writing:** I break down auth standards and identity engineering insights on [Medium](https://pasinduyeshan.medium.com/).
 
 ---
 
@@ -28,6 +28,7 @@ Tooling           |  Git  •  Maven  •  GitHub Actions  •  Jenkins
 
 ### 🏗️ What I'm Working On
 
+- **[ThunderID](https://github.com/thunder-id/thunderid)** — Open-source, high-performance identity stack (an LF Decentralized Trust project) for securing access for humans, AI agents, and machines through fully composable identity flows. Learn more at [thunderid.dev](https://thunderid.dev).
 - **[WSO2 Identity Server](https://github.com/wso2/product-is)** — Open-source IAM platform used by enterprises and governments worldwide. Contributing to authentication flows, federation, OAuth 2.0 / OIDC, and the developer experience.
 - **[WSO2 Asgardeo](https://wso2.com/asgardeo/)** — WSO2's cloud IDaaS. Passwordless login with passkeys, adaptive auth, social IdPs, and developer-first APIs.
 - **[yeshandev.com](https://yeshandev.com)** — Personal portfolio with an interactive terminal that speaks SCIM 2.0 and OIDC discovery.
